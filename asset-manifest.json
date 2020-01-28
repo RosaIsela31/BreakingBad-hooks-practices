@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/TD-React-Challenge-Test-1/static/css/main.95737816.chunk.css",
-    "main.js": "/TD-React-Challenge-Test-1/static/js/main.715d4b29.chunk.js",
-    "main.js.map": "/TD-React-Challenge-Test-1/static/js/main.715d4b29.chunk.js.map",
-    "runtime-main.js": "/TD-React-Challenge-Test-1/static/js/runtime-main.7db762ee.js",
-    "runtime-main.js.map": "/TD-React-Challenge-Test-1/static/js/runtime-main.7db762ee.js.map",
-    "static/js/2.d1a3b87b.chunk.js": "/TD-React-Challenge-Test-1/static/js/2.d1a3b87b.chunk.js",
-    "static/js/2.d1a3b87b.chunk.js.map": "/TD-React-Challenge-Test-1/static/js/2.d1a3b87b.chunk.js.map",
-    "index.html": "/TD-React-Challenge-Test-1/index.html",
-    "precache-manifest.e005a2e68e7960daeca5dcc244c44918.js": "/TD-React-Challenge-Test-1/precache-manifest.e005a2e68e7960daeca5dcc244c44918.js",
-    "service-worker.js": "/TD-React-Challenge-Test-1/service-worker.js",
-    "static/css/main.95737816.chunk.css.map": "/TD-React-Challenge-Test-1/static/css/main.95737816.chunk.css.map",
-    "static/js/2.d1a3b87b.chunk.js.LICENSE": "/TD-React-Challenge-Test-1/static/js/2.d1a3b87b.chunk.js.LICENSE",
-    "static/media/index.css": "/TD-React-Challenge-Test-1/static/media/logo.427a4adc.svg"
+    "main.css": "/BreakingBad-hooks-practices/static/css/main.22698042.chunk.css",
+    "main.js": "/BreakingBad-hooks-practices/static/js/main.9c869584.chunk.js",
+    "main.js.map": "/BreakingBad-hooks-practices/static/js/main.9c869584.chunk.js.map",
+    "runtime-main.js": "/BreakingBad-hooks-practices/static/js/runtime-main.cd50fcb3.js",
+    "runtime-main.js.map": "/BreakingBad-hooks-practices/static/js/runtime-main.cd50fcb3.js.map",
+    "static/js/2.d1a3b87b.chunk.js": "/BreakingBad-hooks-practices/static/js/2.d1a3b87b.chunk.js",
+    "static/js/2.d1a3b87b.chunk.js.map": "/BreakingBad-hooks-practices/static/js/2.d1a3b87b.chunk.js.map",
+    "index.html": "/BreakingBad-hooks-practices/index.html",
+    "precache-manifest.a53d52afe63cfb3db955829b3b88d10d.js": "/BreakingBad-hooks-practices/precache-manifest.a53d52afe63cfb3db955829b3b88d10d.js",
+    "service-worker.js": "/BreakingBad-hooks-practices/service-worker.js",
+    "static/css/main.22698042.chunk.css.map": "/BreakingBad-hooks-practices/static/css/main.22698042.chunk.css.map",
+    "static/js/2.d1a3b87b.chunk.js.LICENSE": "/BreakingBad-hooks-practices/static/js/2.d1a3b87b.chunk.js.LICENSE",
+    "static/media/index.css": "/BreakingBad-hooks-practices/static/media/logo.427a4adc.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.7db762ee.js",
+    "static/js/runtime-main.cd50fcb3.js",
     "static/js/2.d1a3b87b.chunk.js",
-    "static/css/main.95737816.chunk.css",
-    "static/js/main.715d4b29.chunk.js"
+    "static/css/main.22698042.chunk.css",
+    "static/js/main.9c869584.chunk.js"
   ]
 }
