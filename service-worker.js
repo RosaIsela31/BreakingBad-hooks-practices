@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/BreakingBad-hooks-practices/precache-manifest.a53d52afe63cfb3db955829b3b88d10d.js"
+  "/BreakingBad-hooks-practices/precache-manifest.737fe02d3a5782db44db33b3cf274204.js"
 );
 
 self.addEventListener('message', (event) => {

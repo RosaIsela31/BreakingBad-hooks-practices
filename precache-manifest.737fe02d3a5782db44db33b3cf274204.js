@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7a3be13030831da9a02e8f63de32690f",
+    "revision": "39a1e41a8cec725bf7ccd66874865eb8",
     "url": "/BreakingBad-hooks-practices/index.html"
   },
   {
-    "revision": "5fbea4231212df0074e5",
+    "revision": "d13c7d1776efa1616f53",
     "url": "/BreakingBad-hooks-practices/static/css/main.22698042.chunk.css"
   },
   {
-    "revision": "981603b6985f9034cdd5",
-    "url": "/BreakingBad-hooks-practices/static/js/2.d1a3b87b.chunk.js"
+    "revision": "ccdd7d0fd3bd3a89b63e",
+    "url": "/BreakingBad-hooks-practices/static/js/2.10d454cb.chunk.js"
   },
   {
     "revision": "e928fe768baa9832b5bc57eae021f30c",
-    "url": "/BreakingBad-hooks-practices/static/js/2.d1a3b87b.chunk.js.LICENSE"
+    "url": "/BreakingBad-hooks-practices/static/js/2.10d454cb.chunk.js.LICENSE"
   },
   {
-    "revision": "5fbea4231212df0074e5",
-    "url": "/BreakingBad-hooks-practices/static/js/main.9c869584.chunk.js"
+    "revision": "d13c7d1776efa1616f53",
+    "url": "/BreakingBad-hooks-practices/static/js/main.695a6ea1.chunk.js"
   },
   {
     "revision": "44998249ec304b2664a6",
