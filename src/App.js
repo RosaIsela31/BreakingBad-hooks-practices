@@ -1,10 +1,12 @@
 import React from 'react';
+import { BrowserRouter, Route } from "react-router-dom";
+import AppContainer from './components/AppContainer';
 
 function App() {
   return (
-    <div className="App">
-      <h1>Breaking Bad</h1>
-    </div>
+    <BrowserRouter>
+      <Route path='/' component={AppContainer} />
+    </BrowserRouter>
   );
 }
 
